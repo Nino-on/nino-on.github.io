@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(232, 223, 223);
+    padding:80px;
+  }
+  h1 {text-align: center;
+    color: crimson;
+  }
+
+  
+  .toolbar {
+    display: block;
+    width: 100%;
+    background-color: rgb(178, 167, 167);
+    height: 60px;
+    color: yellow;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 0px;
+    top: 0px;
+}
+
+ .left { 
+    display: inline-block;
+    width: 25%;
+    height: 300px;
+    padding: 50px;
+    background-color: #f9f0d3;
+    text-align: center;
+    
+
+}
+
+.middle {
+  display: block;
+  width: 100%;
+  height: 300px;
+  padding: 10px;
+  background-color: rgb(159, 205, 243);
+  text-align: center;
+  
+}
+
+#box {
+  height: 300px;
+  width: 100%;
+  margin:auto;
+}
+
+.red {color: red;}
+.blue {color: blue;}
+.green {color: green;}
+.orange {color:orange}
+.big {font-size: 30px;}
+.tiny {font-size: 12px;}
+.center {text-align: center;}
+.bold {font-weight: bold;}
+.create {font-family:Arial, Helvetica, sans-serif;}
+.styledFont {color: purple; font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: justify;}
+.border {border-style: solid; border-width: 20px;border-color: rgb(205, 45, 104);
